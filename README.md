@@ -1,4 +1,4 @@
-Hi, my name is Dmitrii. I live in St. Petersburg, Russia and I work at Wargaming. 
+Hi, my name is Dmitrii. I live in St. Petersburg, Russia and I work at Shapefarm. 
 
 I'm interested in gameplay programming in a variety of game genres and you can check out my small personal projects here.
 I'm currently working on the following projects:
